@@ -232,7 +232,7 @@ body {
     .headline h2 {
         font-size: 2rem;
         letter-spacing: 10px;
-        margin-bottom: 30%;
+        margin-bottom: 20%;
     }
 }
 
@@ -486,7 +486,7 @@ body {
 }
 
 .graphic-design {
-    background-image: url(/images/desktop/image-graphic-design.jpg);
+    background-image: url(images/desktop/image-graphic-design.jpg);
     background-position: center;
     background-size: cover;
     display: flex;
@@ -505,7 +505,7 @@ body {
 }
 
 .photography {
-    background-image: url(/images/desktop/image-photography.jpg);
+    background-image: url(images/desktop/image-photography.jpg);
     background-position: center;
     background-size: cover;
     display: flex;
